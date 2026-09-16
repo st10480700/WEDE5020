@@ -25,15 +25,15 @@ Github – Used to store and manage the project.
 
 The website uses a bakery-inspired design to create a welcoming and enjoyable experience for visitors. CSS is used to control:
 
-* Colours
-* Fonts
-* Navigation
-* Page layout
-* Images
-* Buttons
-* Spacing
-* Backgrounds
-* Responsive design
+Colours
+Fonts
+Navigation
+Page layout
+Images
+Buttons
+Spacing
+Backgrounds
+Responsive design
 
 The main purpose of Oh My Cake! is to give customers a way to:
 
