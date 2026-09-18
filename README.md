@@ -8,6 +8,7 @@ At OMC, we make cakes that look like craftwork and taste like dessert. Our missi
 
 The website was developed as part of a web development project to demonstrate the use of **HTML and CSS** to create a functional and visually appealing website
 
+
 The Oh My Cake! website includes the following pages:
 
 Home – Introduces customers to Oh My Cake! and provides an overview of the bakery.
