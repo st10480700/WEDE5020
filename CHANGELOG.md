@@ -6,6 +6,7 @@
 * Added more content to footer
 * Added another button in the home page
 * Added media adjustability
+  
 
 # Changed
 * Changed the structure of the webpages 
