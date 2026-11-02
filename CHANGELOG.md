@@ -37,3 +37,4 @@
 * When you add your item to cart, you will see a short hidden description of your cake/cupcake/macaron
 * I have also added a category in which you can find either cakes only or macarons only or cupcakes only.
 * I changed the order now buttons to add to cart
+* I have added an image lightbox
