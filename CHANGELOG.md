@@ -33,4 +33,5 @@
 * I used javascript to make the cakes have an option to add to cart and increase or decrease the  cake quantity
 * I added a search bar and button next to it.
 * I have added a cart button and when you click on it you will see how many items is in your cart, the price of each item and the total price for the  items .
-
+* I made the pictures zoom in when you click on them
+* When you add your item to cart, you will see a short hidden description of your cake/cupcake/macaron
