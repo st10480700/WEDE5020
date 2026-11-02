@@ -35,4 +35,5 @@
 * I have added a cart button and when you click on it you will see how many items is in your cart, the price of each item and the total price for the  items .
 * I made the pictures zoom in when you click on them
 * When you add your item to cart, you will see a short hidden description of your cake/cupcake/macaron
-* I have also added a category in which you can find either cakes only or macarons only or cupcakes only
+* I have also added a category in which you can find either cakes only or macarons only or cupcakes only.
+* I changed the order now buttons to add to cart
