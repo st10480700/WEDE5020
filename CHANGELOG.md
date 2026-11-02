@@ -38,3 +38,7 @@
 * I have also added a category in which you can find either cakes only or macarons only or cupcakes only.
 * I changed the order now buttons to add to cart
 * I have added an image lightbox
+## Enquiry
+* I have added a message that will pop up after filling in the details and clicking send enquiry.
+* I have also added the SEO tags.
+* I renamed the enquiry form from message-form to enquiry form
