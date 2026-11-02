@@ -44,6 +44,7 @@
 * I renamed the enquiry form from message-form to enquiry form
 
 ## Contact
-*I have added the SEO tags.
+* I have added the SEO tags.
 * I have added a message that will pop up after filling in the contact details.
-* I have also added a frequently asked questions (FAQ) tab below the map
+* I have also added a frequently asked questions (FAQ) tab below the map.
+* The message will not be sent through if there is space that has not been filled in 
