@@ -26,4 +26,8 @@
 * I also added a seach button
 
 ## About us
-I have added the SEO tags in this page as well so that the key words can be picked up on. 
+I have added the SEO tags in this page as well so that the key words can be picked up on.
+
+## Our Cakes
+I have added the SEO tags to improve search visibility.
+I used javascript to make the cakes have an option to add to cart and increase or decrease the  cake quantity
