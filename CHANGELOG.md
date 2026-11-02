@@ -22,4 +22,5 @@
 # Homepage
 * I have added the SEO tags so that when the website is searched on google then the key words  within the homepage can be detected and the website will pop up.
 * I used javascript to make the "order now" button redirect into the "our cakes" webpage.
-* I used javascript to add the search bar so that customers can search for whichever cake they want
+* I used javascript to add the search bar so that customers can search for whichever cake they want.
+* I also added a seach button
