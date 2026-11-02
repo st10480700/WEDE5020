@@ -43,4 +43,6 @@
 * I have also added the SEO tags.
 * I renamed the enquiry form from message-form to enquiry form
 
-  ##
+## Contact
+*I have added the SEO tags.
+* I have added a message that will pop up after filling in the contact details.
