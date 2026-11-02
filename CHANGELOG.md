@@ -24,3 +24,6 @@
 * I used javascript to make the "order now" button redirect into the "our cakes" webpage.
 * I used javascript to add the search bar so that customers can search for whichever cake they want.
 * I also added a seach button
+
+## About us
+I have added the SEO tags in this page as well so that the key words can be picked up on. 
