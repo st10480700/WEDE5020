@@ -191,4 +191,5 @@ Possible future improvements include:
 The Oh My Cake! website combines HTML, CSS and JavaScript to create an interactive online bakery platform. The additional features, including the shopping cart, product search, category filters, image lightbox, quantity selection, form confirmation popups, animations and SEO improvements, enhance the overall user experience and functionality of the website
 
 Reference list:
-
+Netlify, 2026. Netlify [online]. Available at:< https://www.netlify.com > [Accessed 2 November 2026].
+Mozilla Development Network, (s.a.). Javascript guide [online]. Available at:< https://developer.mozilla.org/en-US/ docs/Web/JavaScript/Guide [Accessed 2 November 2026].
